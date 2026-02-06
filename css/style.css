@@ -220,11 +220,6 @@ align-items:center;
 padding:0 40px;
 }
 
-.texhighlight {
-    display:block;
-    width: 400px;
-    gap: 3px;
-}
 
 .highlight-content h2{
     color: #fff;
@@ -318,6 +313,7 @@ header{
     padding:0 20px;
 }
 .highlight-content{
+  
     grid-template-columns:1fr;
 }
 .contact{
